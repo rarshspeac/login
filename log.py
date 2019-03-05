@@ -6,13 +6,13 @@ def menu():
       while True:
            print("")
            os.system("clear")
-           print('\033[1;36;40m<─────────────── v.1.2 ───────────────>')
+           print('\033[1;36;40m<─────────────── v.0.9 ───────────────>')
            print('')
            os.system('date | lolcat')
            print("\033[1;93m")
-           print(" \033[1;92m  786 => bismi-llāhir-raḥmānir-raḥīm')")
+           print(" \033[1;92m  Welcome DentyMods, Please login...")
            print("\033[1;93m")
-           print("  <───────[ Assalamu-Alaikum ]───────>")
+           print("  <───────[ DentyMods [DentyTEAM] ]───────>")
            print("")
            try:
                 x = str(input('\033[1;92mUsername \033[1;93m: '))
